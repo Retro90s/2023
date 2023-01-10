@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://retro90s.github.io/2022/sitemap-index.xml
