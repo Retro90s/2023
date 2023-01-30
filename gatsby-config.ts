@@ -1,7 +1,7 @@
 import type { GatsbyConfig, PluginRef } from "gatsby"
 
-module.exports = {
-  siteMetadata: {
+const config: GatsbyConfig = {
+    siteMetadata: {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-emilia-core/gatsby-config.ts
     siteTitle: `2023`,
     siteTitleAlt: `2023 | True Colors`,
