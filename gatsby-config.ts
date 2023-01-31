@@ -6,10 +6,10 @@ const config: GatsbyConfig = {
     siteTitle: `2023`,
     siteTitleAlt: `2023 | True Colors`,
     siteHeadline: `2023 | True Colors`,
-    siteUrl: `https://retro90s.github.io/2023`,
+    siteUrl: `https://microlens-2023.netlify.app`,
     siteDescription: "Photos by Long Nhat Nguyen",
     siteImage: `/banner.jpg`,
-    author: `@retro90s`,
+    author: `@torn4dom4n`,
   },
   trailingSlash: `never`,
   plugins: [
@@ -36,9 +36,6 @@ const config: GatsbyConfig = {
         description: `Photos by Long Nhat Nguyen`,
         start_url: `/`,
         background_color: `#fff`,
-        // This will impact how browsers show your PWA/website
-        // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#3182ce`
         display: `standalone`,
         icons: [
           {
@@ -47,8 +44,8 @@ const config: GatsbyConfig = {
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
-            sizes: `512x512`,
+            src: `/android-chrome-384x384.png`,
+            sizes: `384x384`,
             type: `image/png`,
           },
         ],
