@@ -5,5 +5,8 @@
     "renovate"
   ],
   "automerge": false,
-  "rangeStrategy": "bump"
+  "rangeStrategy": "bump",
+  "schedule": [
+    "every weekday"
+  ]
 }
