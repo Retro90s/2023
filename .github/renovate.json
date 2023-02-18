@@ -7,6 +7,6 @@
   "automerge": false,
   "rangeStrategy": "bump",
   "schedule": [
-    "every weekday"
+    "before 3am on Monday"
   ]
 }
