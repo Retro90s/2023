@@ -1,6 +1,6 @@
 # 2023 | True Colors
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2374653e-4da5-450f-8524-3a55d70f8619/deploy-status)](https://app.netlify.com/sites/microlens-2023/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb87d592-b712-47bd-a626-1d6ae715725e/deploy-status)](https://app.netlify.com/sites/microlens-2023/deploys)
 
 Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Using the Gatsby Theme [`@lekoarts/gatsby-theme-emilia`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-emilia).
 
