@@ -1,9 +1,9 @@
 {
-  "private": true,
   "name": "@microlens/gatsby-starter-emilia",
   "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images",
-  "version": "5.2.0",
-  "author": "Long Nhat Nguyen",
+  "version": "23.04.27",
+  "author": "Mircrolens",
+  "private": true,
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -12,7 +12,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-emilia": "^5.1.0",
+    "@lekoarts/gatsby-theme-emilia": "^5.1.1",
     "gatsby": "^5.9.0",
     "gatsby-plugin-manifest": "^5.9.0",
     "gatsby-plugin-sitemap": "^6.9.0",
@@ -20,9 +20,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^18.16.0",
-    "@types/react": "^18.0.38",
-    "@types/react-dom": "^18.0.11",
+    "@types/node": "^18.16.1",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
     "typescript": "^5.0.4"
   }
 }
