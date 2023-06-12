@@ -1,6 +1,6 @@
 {
   "extends": ["config:base"],
-  "dependencyDashboard": false,
+  "dependencyDashboard": true,
   "labels": ["renovate"],
   "automerge": false,
   "rangeStrategy": "bump",
