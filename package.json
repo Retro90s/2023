@@ -1,9 +1,9 @@
 {
-  "name": "@microlens/gatsby-starter-emilia",
-  "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images",
-  "version": "23.5.26",
-  "author": "Mircrolens",
   "private": true,
+  "name": "@area44/gatsby-starter-emilia",
+  "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images",
+  "version": "23.6.30",
+  "author": "AREA44",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -20,9 +20,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "^20.2.3",
-    "@types/react": "^18.2.13",
+    "@types/node": "^20.3.2",
+    "@types/react": "^18.2.14",
     "@types/react-dom": "^18.2.6",
-    "typescript": "^5.1.3"
+    "typescript": "^5.1.6"
   }
 }
