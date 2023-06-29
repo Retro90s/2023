@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
-    "target": "esnext",
-    "lib": ["dom", "esnext"],
+    "target": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "jsx": "react-jsx",
     "jsxImportSource": "theme-ui",
-    "module": "esnext",
+    "module": "ESNext",
     "moduleResolution": "node",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
@@ -16,5 +16,6 @@
     "./gatsby-node.ts",
     "./gatsby-config.ts",
     "./plugins/**/*"
-  ]
+  ],
+  "exclude": ["node_modules"]
 }

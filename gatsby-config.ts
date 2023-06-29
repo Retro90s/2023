@@ -1,13 +1,12 @@
 import type { GatsbyConfig, PluginRef } from "gatsby"
 
 const config: GatsbyConfig = {
-  // Enable pathPrefix deploy site on GitHub Pages
-  // pathPrefix: `/2023`,
+  pathPrefix: `/2023`,
   siteMetadata: {
     siteTitle: `2023`,
     siteTitleAlt: `2023 | True Colors`,
     siteHeadline: `2023 | True Colors`,
-    siteUrl: `https://microlens-2023.netlify.app`,
+    siteUrl: `https://microlens.github.io/2023`,
     siteDescription: "Photos by Long Nhat Nguyen",
     siteImage: `/og-image.jpg`,
     siteLanguage: `en`,
