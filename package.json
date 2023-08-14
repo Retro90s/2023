@@ -1,15 +1,15 @@
 {
-  "private": true,
   "name": "@area44/gatsby-starter-emilia",
-  "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images",
   "version": "23.6.30",
+  "private": true,
+  "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images",
   "author": "AREA44",
   "scripts": {
     "build": "gatsby build",
+    "clean": "gatsby clean",
     "develop": "gatsby develop",
-    "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "start": "gatsby develop"
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-emilia": "^5.1.1",
