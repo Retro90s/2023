@@ -11,7 +11,6 @@ const config: GatsbyConfig = {
     siteLanguage: `en`,
     author: `@torn4dom4n`,
   },
-  trailingSlash: `never`,
   plugins: [
     {
       resolve: `@lekoarts/gatsby-theme-emilia`,
