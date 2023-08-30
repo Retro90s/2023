@@ -1,4 +1,4 @@
-import type { GatsbyConfig, PluginRef } from "gatsby"
+import type { GatsbyConfig, PluginRef } from 'gatsby'
 
 const config: GatsbyConfig = {
   siteMetadata: {
@@ -6,7 +6,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `2023 | True Colors`,
     siteHeadline: `2023 | True Colors`,
     siteUrl: `https://2023-microlens.github.io`,
-    siteDescription: "Photos by Long Nhat Nguyen",
+    siteDescription: 'Photos by Long Nhat Nguyen',
     siteImage: `/og-image.jpg`,
     siteLanguage: `en`,
     author: `@torn4dom4n`,
