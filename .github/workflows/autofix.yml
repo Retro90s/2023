@@ -11,7 +11,7 @@ jobs:
   autofix:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v3
@@ -23,4 +23,4 @@ jobs:
         run: npx prettier -w . "!.github"
 
       - name: Run autofix.ci
-        uses: autofix-ci/action@v1.1
+        uses: autofix-ci/action@v1.3
