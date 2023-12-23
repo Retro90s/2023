@@ -1,7 +1,6 @@
 import type { GatsbyConfig, PluginRef } from 'gatsby'
 
 const config: GatsbyConfig = {
-  pathPrefix: `/2023`,
   siteMetadata: {
     siteTitle: `2023`,
     siteTitleAlt: `2023 | True Colors`,
