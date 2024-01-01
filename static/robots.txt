@@ -1,3 +1,3 @@
 User-agent: *
 
-sitemap: https://microlens-2023.netlify.app/sitemap-index.xml
+sitemap: https://2023-microlens.netlify.app/sitemap-index.xml
