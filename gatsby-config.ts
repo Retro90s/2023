@@ -5,7 +5,7 @@ const config: GatsbyConfig = {
     siteTitle: `2023`,
     siteTitleAlt: `2023 | True Colors`,
     siteHeadline: `2023 | True Colors`,
-    siteUrl: `https://2023-microlens.github.io`,
+    siteUrl: `https://2023-microlens.netlify.app`,
     siteDescription: 'Photos by Long Nhat Nguyen',
     siteImage: `/og-image.jpg`,
     siteLanguage: `en`,
